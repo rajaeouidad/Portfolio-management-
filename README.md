@@ -12,7 +12,7 @@ Le portefeuille a été construit pour **répliquer le risque du marché** (bêt
 
 ---
 
-## 📊 Résultats clés
+##  Résultats clés
 
 | Indicateur | Portefeuille | MASI 20 |
 |---|---|---|
@@ -66,12 +66,12 @@ Le détail complet des argumentaires par titre (faits marquants, catalyseurs 202
 
 ---
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 `Excel` (Solveur, matrice VAR-COVAR) · `Python` (NumPy, SciPy, Pandas, Matplotlib  ) · analyse fondamentale et diagnostic financier
 
 ---
 
-## 📌 À propos
+##  À propos
 
 Projet académique réalisé dans le cadre du cours de Gestion de Portefeuille (ENCG, semestre 7), pour développer les compétences en gestion active de portefeuille, analyse quantitative du risque et optimisation
