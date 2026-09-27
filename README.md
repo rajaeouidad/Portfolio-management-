@@ -1,5 +1,4 @@
-
-Simulation de Gestion de Portefeuille Actions 
+Simulation de Gestion de Portefeuille Actions — MASI 20
 Simulation de gestion active d'un portefeuille actions coté sur le marché marocain
 (indice MASI 20), réalisée sur 10 semaines dans le cadre du cours de Gestion de
 Portefeuille (ENCG) : sélection des titres, construction du portefeuille,
