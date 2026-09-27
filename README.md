@@ -1,4 +1,4 @@
-#  Simulation de Gestion de Portefeuille Actions — MASI 20
+#  Simulation de Gestion de Portefeuille Actions 
 
 **Gestion active d'un portefeuille de 11 valeurs cotées à la Bourse de Casablanca, sur 10 semaines, en conditions réelles de marché**
 
